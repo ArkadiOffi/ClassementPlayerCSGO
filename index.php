@@ -26,5 +26,6 @@
 				<li><a href="#">S'inscrire</a></li>
             </ul>
 </div>
+
 </body>
 </html>
