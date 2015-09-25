@@ -7,7 +7,7 @@
 <!-- META -->
 	<meta charset="UTF-8"/>	<meta name="Generator" content="XpressEngine" />
 <!-- TITLE -->
-	<title>Phoenix-eSport MULTIGAMING</title>
+	<title>Classement Players CSGO</title>
 <!-- CSS -->
 
 <!-- JS -->
